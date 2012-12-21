@@ -30,10 +30,8 @@ to:
 * `Send Randall and email and say "hi". <mailto:rdegges@gmail.com>`_
 
 
-Indices and tables
-==================
+Reference Stuff
+===============
 
 * :ref:`genindex`
-* :ref:`modindex`
 * :ref:`search`
-
