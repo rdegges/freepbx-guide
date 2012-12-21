@@ -27,6 +27,7 @@ to:
 
 * `Follow Randall on Twitter. <https://twitter.com/rdegges>`_
 * `Visit the #freepbx IRC channel. <irc://irc.freenode.net/#freepbx>`_
+* `Star the official GitHub repository.  <https://github.com/rdegges/freepbx-guide>`_
 * `Send Randall and email and say "hi". <mailto:rdegges@gmail.com>`_
 
 
