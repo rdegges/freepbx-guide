@@ -14,6 +14,7 @@ Table of Contents
 
 .. toctree::
    :maxdepth: 2
+   why_this_guide_exists
 
 
 Who Wrote This?
