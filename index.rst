@@ -16,6 +16,19 @@ Contents:
    :maxdepth: 2
 
 
+Who Wrote This?
+===============
+
+This guide is written by `Randall Degges <http://rdegges.com/>` and
+contributors.
+
+If you'd like to keep up-to-date with changes to this guide, you're encouraged
+to:
+
+* `Follow Randall on Twitter <https://twitter.com/rdegges>`
+* `Visit the #freepbx IRC Channel <irc://irc.freenode.net/#freepbx>`
+* `Send Randall and email and say "hi" <mailto:rdegges@gmail.com>`
+
 
 Indices and tables
 ==================
