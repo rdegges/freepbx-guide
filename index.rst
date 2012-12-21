@@ -25,9 +25,9 @@ contributors.
 If you'd like to keep up-to-date with changes to this guide, you're encouraged
 to:
 
-* `Follow Randall on Twitter <https://twitter.com/rdegges>`_
-* `Visit the #freepbx IRC Channel <irc://irc.freenode.net/#freepbx>`_
-* `Send Randall and email and say "hi" <mailto:rdegges@gmail.com>`_
+* `Follow Randall on Twitter. <https://twitter.com/rdegges>`_
+* `Visit the #freepbx IRC channel. <irc://irc.freenode.net/#freepbx>`_
+* `Send Randall and email and say "hi". <mailto:rdegges@gmail.com>`_
 
 
 Indices and tables
