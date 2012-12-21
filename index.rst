@@ -19,15 +19,15 @@ Contents:
 Who Wrote This?
 ===============
 
-This guide is written by `Randall Degges <http://rdegges.com/>` and
+This guide is written by `Randall Degges <http://rdegges.com/>`_ and
 contributors.
 
 If you'd like to keep up-to-date with changes to this guide, you're encouraged
 to:
 
-* `Follow Randall on Twitter <https://twitter.com/rdegges>`
-* `Visit the #freepbx IRC Channel <irc://irc.freenode.net/#freepbx>`
-* `Send Randall and email and say "hi" <mailto:rdegges@gmail.com>`
+* `Follow Randall on Twitter <https://twitter.com/rdegges>`_
+* `Visit the #freepbx IRC Channel <irc://irc.freenode.net/#freepbx>`_
+* `Send Randall and email and say "hi" <mailto:rdegges@gmail.com>`_
 
 
 Indices and tables
