@@ -10,7 +10,7 @@ the platform, this guide will walk you through everything you need to know to be
 successful.
 
 
-Table of Contents
+**Table of Contents**
 
 .. toctree::
     :maxdepth: 2
