@@ -16,6 +16,7 @@ successful.
     :maxdepth: 2
 
     why_this_guide_exists
+    who_this_guide_is_for
 
 
 Who Wrote This?
