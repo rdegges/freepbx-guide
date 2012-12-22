@@ -17,6 +17,7 @@ successful.
 
     why_this_guide_exists
     who_this_guide_is_for
+    preparing_the_environment
 
 
 Who Wrote This?
