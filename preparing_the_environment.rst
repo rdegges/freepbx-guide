@@ -51,7 +51,28 @@ You should now how a new virtual machine ready to configure and use!
 Preparing the Install
 ---------------------
 
-TODO
+Now before we install FreePBX on our new virtual machine, we need make two small
+changes to our new virtual machine configuration.
+
+And of course, let's not forget to download the FreePBX distro! You can download
+this from the `FreePBX distro download page
+<http://www.schmoozecom.com/distro-download.php>`_.
+
+First off, open the configuration menu by right clicking the virtual machine
+you created a moment ago, and click 'Settings'.
+
+1. Visit the 'Storage' tab on the left, click the CD ROM icon, and on the right
+   side of the screen, click the CD ROM icon again and select 'Choose a virtual
+   CD/DVD disk file...' Now navigate to the ISO file you downloaded above, and
+   select it. This is the equivalent of inserting a burned CD ROM into your
+   virtual machine's CD ROM drive.
+
+2. Now select the 'Network' tab on the left, and in the drop down menu labeled
+   'Attached to:', select 'Bridged Adapter'. This means that your FreePBX
+   virtual machine will get an IP address on your network, just like your
+   development computer.
+
+Now we're ready to do the install!
 
 
 Installing FreePBX
