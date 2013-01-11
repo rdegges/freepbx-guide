@@ -22,7 +22,7 @@ Since we're going to be running the official FreePBX distro, it also makes sense
 that we'll want to install it in a virtual machine--this way we won't have to
 install it on an actual computer anywhere, and waste resources.
 
-`VirtualBox <https://www.virtualbox.org/>` is the perfect tool for this. It's
+`VirtualBox <https://www.virtualbox.org/>`_ is the perfect tool for this. It's
 free, works on a wide variety of platforms, and is really simple to get setup.
 
 So before we do anything else, download and install `VirtualBox
