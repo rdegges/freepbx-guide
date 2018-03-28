@@ -2,7 +2,7 @@ Why This Guide Exists
 =====================
 
 
-FreePBX is one of the lagest open source PBX systems in the world, with over
+FreePBX is one of the largest open source PBX systems in the world, with over
 500,000 active users and more than 5,000,000 downloads to date.
 
 With so many users, FreePBX has gained a lot of attention from hobbyists, system
